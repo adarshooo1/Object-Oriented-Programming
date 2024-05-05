@@ -1,0 +1,5 @@
+In Part 1 the Object-Oriented Programming in Java:
+    We will learn about the :1.Intro and Concepts
+                             2.Classes & Objects
+                             3.Constructors
+                             4.this , final and Finalize
